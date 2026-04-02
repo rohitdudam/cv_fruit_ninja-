@@ -8,6 +8,7 @@ import random
 import math
 import numpy as np
 from collections import deque
+#hello this is rohit tesiting
 
 # --- 1. AUTO-DOWNLOAD THE AI MODEL ---
 MODEL_PATH = 'hand_landmarker.task'
